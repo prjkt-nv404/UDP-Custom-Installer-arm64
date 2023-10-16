@@ -1,10 +1,11 @@
 <h2 align="center">UDP Custom - Installer - ARM[64]<h2>
 
-## Supported OS
+<p align="center">𝚟𝚘𝚕𝚝𝚜𝚜𝚑 𝕏</p>
+
+### Supported OS
 - ubuntu 20.04 [arm] above ✅ _(recommended)_
 
-
-## Install
+### Install
 ```
 sudo -s
 ``` 
@@ -16,7 +17,7 @@ wget --no-check-certificate "https://raw.githubusercontent.com/prjkt-nv404/UDP-C
 ```
 
 
-## Manually Port Blocking
+### Manually Port Blocking
 
  * Use optional port exclude when port udp between ```1-65535``` already use by other udp tunnel, like badvpn, ovpn udp and other.
  * Edit path config ```/root/udp/config.json```, after changing it then reboot
@@ -35,14 +36,14 @@ _[A custom configuration, both "stream_buffer" and "receive_buffer" values are s
 
 ```
 
-## Telegram 
+### Telegram 
  > [💲 Pay](https://t.me/voltverifybot)
 
  > [👨🏽‍💻 𝚟𝚘𝚕𝚝𝚜𝚜𝚑 𝕏](https://t.me/voltsshx)
 
  > [📣 𝚅𝚘𝚕𝚝𝚂𝚂𝙷 𝙷𝚀 ⚝](https://t.me/voltsshhq)
 
-## Credit
+### Credit
  > ePro Dev. Team
 
 #
