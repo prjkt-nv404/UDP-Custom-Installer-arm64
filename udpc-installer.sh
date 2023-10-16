@@ -16,6 +16,7 @@ BINARY_PATH="$INSTALL_DIR/$BINARY_NAME"
 
 # Help function
 display_help() {
+  clear
   echo "Install UDP Custom binary for ARM64."
   echo "Author: voltsshx"
   echo "Credit: ePro Dev. Team"
