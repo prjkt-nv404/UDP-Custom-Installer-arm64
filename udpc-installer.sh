@@ -5,6 +5,9 @@
 # Credit: ePro Dev. Team
 # Author: voltsshx
 
+# clear screen
+clear
+
 # Define variables
 INSTALL_DIR="/root/udp"
 BINARY_NAME="udp-custom"
