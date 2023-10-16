@@ -8,7 +8,7 @@
 # Define variables
 INSTALL_DIR="/root/udp"
 BINARY_NAME="udp-custom"
-BINARY_URL="https://github.com/prjkt-nv404/UDP-Custom-Installer-arm64/raw/main/udpc-arm64"
+BINARY_URL="https://raw.githubusercontent.com/prjkt-nv404/UDP-Custom-Installer-arm64/main/udpc-arm64"
 BINARY_PATH="$INSTALL_DIR/$BINARY_NAME"
 
 # Help function
