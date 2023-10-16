@@ -1,6 +1,5 @@
 <h2 align="center">UDP Custom - Installer - ARM[64]<h2>
 
-
 ## Supported OS
 - ubuntu 20.04 [arm] above ✅ _(recommended)_
 
@@ -10,7 +9,7 @@
 sudo -s
 ``` 
 ```
-wget "https://raw.githubusercontent.com/prjkt-nv404/UDP-Custom-Installer-arm64/main/udpc-installer.sh" -O udpc-installer.sh && chmod +x udpc-installer.sh && ./udpc-installer.sh
+wget --no-check-certificate "https://raw.githubusercontent.com/prjkt-nv404/UDP-Custom-Installer-arm64/main/udpc-installer.sh" -O udpc-installer.sh && chmod +x udpc-installer.sh && ./udpc-installer.sh
 ```
 ```
 ./udp-custom-updater.sh --help
